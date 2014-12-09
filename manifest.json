@@ -1,0 +1,16 @@
+{
+  "appID": "97ccc2f0609b44dbbd1bcc50947b3ea8",
+  "dependencies": {
+    "devkit-core": "https://github.com/gameclosure/devkit-core#v2.0.14"
+  },
+  "shortName": "demoAnimations",
+  "studio": {
+    "domain": "gameclosure.com",
+    "name": "GameClosure"
+  },
+  "supportedOrientations": [
+    "portrait",
+    "landscape"
+  ],
+  "title": "demoAnimations"
+}
