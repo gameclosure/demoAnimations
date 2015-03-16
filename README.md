@@ -17,7 +17,7 @@ installation instructions.
 ##Quick Start:
 
 Clone this project:
-`git clone git@github.com/gameclosure/demoAnimations`
+`git clone git@github.com/gameclosure/demoAnimations.git`
 
 Change into the game directory:
 `cd demoAnimations`
